@@ -1,0 +1,42 @@
+{
+  "Quizlet": {
+    "Quizlet Live Hack": {
+      "script": "https://cdn.jsdelivr.net/gh/AfroYousef/JS-Plugins/Quizlet/QuizletLive.js"
+    },
+    "Quizlet Modes Hack": {
+      "script": "https://cdn.jsdelivr.net/gh/AfroYousef/JS-Plugins/Quizlet/QuizletModes.js"
+    }
+},
+  "Shellshockers": {
+    "Hack": {
+      "script": "https://cdn.jsdelivr.net/gh/AfroYousef/JS-Plugins/Shellshockers/start.js"
+    }
+},
+    "Exam.net": {
+      "Hack (Exit Tab)": {
+        "script": "https://cdn.jsdelivr.net/gh/AfroYousef/JS-Plugins/Exam.net/exam-out.js"
+}
+},
+      "Orteil Cookie Clicker": {
+        "Increase Cookies": {
+          "scripts": "https://cdn.jsdelivr.net/gh/AfroYousef/JS-Plugins/Cookie%20Clicker/earn.js"
+},
+        "Set Cookies": {
+          "script": "https://cdn.jsdelivr.net/gh/AfroYousef/JS-Plugins/Cookie%20Clicker/SetCookieBalance.js"
+},
+        "Infinite Cookies": {
+          "script": "https://cdn.jsdelivr.net/gh/AfroYousef/JS-Plugins/Cookie%20Clicker/InfiniteCookies.js"
+},
+        "Set Cookies Per Sec": {
+          "script": "https://cdn.jsdelivr.net/gh/AfroYousef/JS-Plugins/Cookie%20Clicker/CookiesPerSec.js"
+},
+        "God Mode": {
+          "script": "https://cdn.jsdelivr.net/gh/AfroYousef/JS-Plugins/Cookie%20Clicker/GodMode.js"
+        }
+},
+  "Quizizz": {
+    "⚠ Alert": {
+      "script": "https://cdn.jsdelivr.net/gh/AfroYousef/JS-Plugins/Quizizz/maintenance.js" 
+    }
+  }
+}

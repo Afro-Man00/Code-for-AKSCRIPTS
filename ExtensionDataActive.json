@@ -1,0 +1,16 @@
+{
+  "Quizizz": {
+    "Highlighter": {
+      "script": "https://rawcdn.githack.com/AfroYousef/JS-Plugins/322578442271354ca4e2b4d85f988aa8026762cf/Quizizz/QuizizzHighlightAnswers.js" 
+    },
+    "Highlighter (Beta)": {
+      "script": "https://rawcdn.githack.com/AfroYousef/JS-Plugins/322578442271354ca4e2b4d85f988aa8026762cf/Quizizz/QuizizzHighlightAnswers_Beta.js"
+    },
+    "Auto Answer": {
+      "script": "https://rawcdn.githack.com/AfroYousef/JS-Plugins/322578442271354ca4e2b4d85f988aa8026762cf/Quizizz/QuizizzAutoAnswer.js"
+    },
+    "Get Answers": {
+      "script": "https://rawcdn.githack.com/AfroYousef/JS-Plugins/322578442271354ca4e2b4d85f988aa8026762cf/Quizizz/QuizzizGetAnswers.js"
+    }
+  }
+}
